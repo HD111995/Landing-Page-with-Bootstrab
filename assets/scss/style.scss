@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+nav {
+  background-color: rgb(253, 204, 252);
+}
+section {
+  padding: 10vw 10vw;
+  color: white;
+  font-family: "Playfair Display", serif;
+  background: url("../img/billionphotos1649855min.png") 90% 50% / contain
+      no-repeat,
+    url("../img/d.jpg") center/cover no-repeat;
+
+  h1 {
+    font-size: 50px;
+    margin-bottom: 4vh;
+  }
+  .line {
+    width: 36vw;
+    height: 1.5vh;
+    background-color: #fff;
+    margin-bottom: 4vh;
+  }
+  p {
+    display: block;
+    width: 32vw;
+    margin-bottom: 10vh;
+  }
+  a {
+    font-size: 26px;
+    text-decoration-line: none;
+    color: white;
+    border: 1px solid white;
+    padding: 2vh 3vw;
+  }
+}
